@@ -9857,7 +9857,7 @@ const z_ = {
           console.log(this.formaDePagamento),
           console.log(e),
           console.log(this.observacoes),
-          (window.location.href = `https://acai-do-pinguim.herokuapp.com/enviarpedido/${JSON.stringify(
+          (window.location.href = `https://acai-do-pinguim.vercel.app/enviarpedido/${JSON.stringify(
             this.meusPedidos
           )}/${JSON.stringify(e)}/${JSON.stringify(
             this.formaDePagamento
