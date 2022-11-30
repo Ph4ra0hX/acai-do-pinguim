@@ -7700,7 +7700,7 @@ const rm = {
           {
             nome: "750ML - R$ 26,00",
             descricao: "ENTREGA GR\xC1TIS",
-            preco: 24,
+            preco: 26,
             quantidade: 0,
             id: 1,
             hash: "",
@@ -8888,9 +8888,9 @@ const zp = {
             selecionados: [],
           },
           {
-            nome: "500ML - R$ 12,90",
+            nome: "500ML - R$ 12,00",
             descricao: " ENTREGA 1 REAL",
-            preco: 12.9,
+            preco: 12.0,
             quantidade: 0,
             id: 9,
             hash: "",
